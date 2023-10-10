@@ -1,3 +1,6 @@
+
+![Opera Captura de pantalla_2023-10-10_014551_localhost](https://github.com/josseLara/sass-plataform/assets/99273526/e3c9869c-b948-45be-895d-29215a99094e)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
